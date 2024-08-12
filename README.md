@@ -88,6 +88,7 @@ print(maxSum(a, n, k))
 
 
 
+
 The project steps are explained briefly. Since this project is about how a method is used in image processing, the basic operations of OpenCV are not included.
 
 
