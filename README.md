@@ -86,6 +86,8 @@ print(maxSum(a, n, k))
 + Create a trackbar to apply a mask to the image
 + apply sliding window method
 
+![Alt Text](https://github.com/KubilayBildirici/sliding-window-method/blob/daf1a0835d340001ffbec0fa7a429c52fbbfb377/test_videos/%C4%B0simsiz%20video%20%E2%80%90%20Clipchamp%20ile%20yap%C4%B1ld%C4%B1.gif?raw=true)
+
 
 
 
